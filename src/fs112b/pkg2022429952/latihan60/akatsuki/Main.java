@@ -8,9 +8,9 @@ package fs112b.pkg2022429952.latihan60.akatsuki;
 import java.util.Scanner;
 /**
  * @author
- * NAMA     : Muhammad Aldi wijaya
- * KELAS    : PBO2
- * NIM      : 2022428931
+ * NAMA     : Eggi Firman Saputra
+ * KELAS    : PBO/ FS112B
+ * NIM      : 2022429952
  * Deskripsi Program : Menampilkan daftar karakter Akatsuki dengan memasukkan nomor pilihan
  * maka akan langsung menampilkan profil dari karakter yang dipilih
  *
